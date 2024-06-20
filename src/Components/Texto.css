@@ -1,5 +1,10 @@
 .Texto{
     background-color: white;
-    display: flex;
+    width: Hug (148px)px;
+    height: Hug (53px)px;
+    top: 15px;
+    left: 91px;
+    gap: 2px;
+    opacity: 0px;
     
 }

@@ -11,7 +11,6 @@ const Tarjeta = () => {
         <div className='imagen'>
         <img src="./EjercicioB.png" alt="" />
         </div>
-        
     </div>
   )
 }
