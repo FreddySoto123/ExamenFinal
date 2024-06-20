@@ -1,3 +1,21 @@
 .contenedor {
-    background-color: gray;
+    background-color:#29292E;
+    width: 364px;
+    height: 83px;
+    top: -31px;
+    left: 159px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.imagen{
+    width: 67px;
+height: 67px;
+top: 8px;
+left: 8px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+
 }
